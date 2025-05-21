@@ -23,10 +23,3 @@ Imutils
 Scipy
 
 Winsound/OS (for cross-platform sound alerts)
-
-📁 Project Structure
-DriverDrowsinessDetection/
-│
-├── driver_drowsiness.py                  # Main application script
-├── shape_predictor_68_face_landmarks.dat # Dlib pre-trained model (downloaded separately)
-├── README.md                             # Project documentation
